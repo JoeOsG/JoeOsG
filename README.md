@@ -4,15 +4,15 @@
 
 # José Osuna
 
-## Desarrollador en general
-Experiencia como *desarrollador* en aplicaciones de escritorio desde **MÉX**.
+## Software developer
+Been a *developer* working with desktop apps from  **MÉX**.
 
->Tambien he trabajo como administrador de sistemas/redes.
+>Also do work in systems admin and network admin.
 
 <br>
 
-- 📫 I’m currently working on several projects in React.
-- 😄 I’m currently learning fullstack development, algorithms.
-- 💬 I’m looking to collaborate on open source.
-- ⚡ I’m looking for help with consolidate all I have learned.
+- 📫 Like to participate on open projects to learn new technologies and get more experience working with teams.
+- 😄 Interested in fullstack web development.
+- 💬 I’m involved on open source projects building pages with React, atomic design, and more.
+- ⚡ Also proud father and husbandg.
 
